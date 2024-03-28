@@ -1,6 +1,0 @@
-cloudflareDDNS:
-  cfAPIEmail: "angeltorresnavarro91@gmail.com"
-  cfAPIKey: "vqre500xVpROD_R92uVNF7VtL31Y8hzmHMBMTyKd"
-  cfDDNSHostname: "devopso.org"
-  cfZoneName: "devopso.org"
-  cfDDNSEnabled: true
